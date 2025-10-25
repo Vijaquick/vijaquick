@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Vignesan – Creator of Vijaquick  
+## Hi there 👋 I'm Vignesan – Creator of Vijaquick 🚀  
 
 [![YouTube Channel](https://img.shields.io/badge/YouTube-Vijaquick-red?logo=youtube&logoColor=white)](https://www.youtube.com/@vijaquick)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vignesan-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/vijaquick)
@@ -23,25 +23,31 @@ Let’s bridge the **language gap in technology** — one tutorial at a time! �
 
 ---
 
-### 📺 YouTube Channel  
-🎥 **[Vijaquick on YouTube](https://www.youtube.com/@vijaquick)**  
-Subscribe to learn in Tamil, stay updated with **Cloud, Data, and AI** trends, and become part of the **Vijaquick Data Family** ❤️  
-
----
-
 ### 🤝 Contribute & Support  
 I’m building **open-source tech learning content** in Tamil — completely free and community-driven.  
 If you’d like to support this initiative, you can contribute here:  
 
 💰 **UPI ID:** `vigneshsiva3699@okicici`  
 
+📱 **Scan the QR to Support:**  
+<p align="center">
+  <img src="https://github.com/Vijaquick/vijaquick/blob/main/34444.png" alt="Support Vijaquick via UPI" width="250"/>
+</p>
+
 Every contribution helps keep the mission alive and growing 🙌  
+
+---
+
+### 📺 YouTube Channel  
+🎥 **[Vijaquick on YouTube](https://www.youtube.com/@vijaquick)**  
+Subscribe to learn in Tamil, stay updated with **Cloud, Data, and AI** trends, and become part of the **Vijaquick Data Family** ❤️  
 
 ---
 
 ### 📫 Contact Me  
 📧 **Email:** [vijaquick@gmail.com](mailto:vijaquick@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/company/vijaquick](https://www.linkedin.com/company/vijaquick)  
+🌐 **Website:** [vijaquick.com](https://vijaquick.com) *(coming soon!)*  
 
 ---
 
